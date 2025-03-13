@@ -1,0 +1,14 @@
+User-agent: *
+
+Disallow: /resources/
+Disallow: /content/
+Disallow: /layouts/
+Disallow: /archetypes/
+Disallow: /data/
+Disallow: /static/
+Disallow: /search/
+Disallow: /page/
+
+Allow: /
+
+Sitemap: https://marketingstrategyplan.org/sitemap.xml
